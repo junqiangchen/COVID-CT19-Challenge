@@ -46,7 +46,7 @@ The following dependencies are needed:
 
 ![](accu.PNG)
 
-* test data result:F1 score is 0.76,AUC area is 0.82,accuracy is 0.76.
+* test data result:F1 score is 0.77,AUC area is 0.833,accuracy is 0.77.
 
 ## Contact
 * https://github.com/junqiangchen
